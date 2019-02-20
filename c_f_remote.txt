@@ -1,0 +1,5 @@
+hello, this is julia
+I used the vi command creating a text file and I add&commit to the learngit
+finally I use "git push origin master" to push this file to Github.
+Thanks!
+love osw forever~
