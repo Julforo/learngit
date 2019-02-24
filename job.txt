@@ -1,0 +1,7 @@
+I do this job within 2 days.
+until now I have finished 50%, which means that there is 1 day left.
+
+I fixed the bug in other branch(master) branch, so I go back
+and use git stash list check my works which is temporarily saved using "git stash" command
+I use "git stash apply" + "git stash drop"
+or use "git stash pop" to do both.
