@@ -8,3 +8,4 @@ create a new branch
 (in master) creating a new branch is quick and simple
 creating an new branch is quick and simple(2019.2.22)
 creating an new branch is quick and simple(2019.2.24)
+I fixed an error in master "readme.txt"
